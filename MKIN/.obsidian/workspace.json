@@ -23,8 +23,12 @@
             "id": "ad1fb1041acb9aa2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Spring swapping.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spring swapping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spring swapping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spring swapping.md"
+              }
             }
           }
         ]
@@ -154,17 +162,18 @@
   "active": "ad1fb1041acb9aa2",
   "lastOpenFiles": [
     "Switch Mods.md",
+    "Spring swapping.md",
     "Switch types.md",
+    "Untitled.canvas",
+    "Keycaps.md",
+    "PCB.md",
     "Popular Switch Brands.md",
+    "Stabilizers.md",
     "Popular Brands and Designers.md",
     "Switches.md",
-    "PCB.md",
     "wiki.mk.in.md",
-    "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
-    "Keycaps.md",
-    "Stabilizers.md",
     "Clip in.md"
   ]
 }
