@@ -12,3 +12,6 @@ Dive into the world of mechanical keyboards like never before! Our wiki is your 
 This wiki is built by the community, for the community. Together, we're creating the ultimate knowledge base for mechanical keyboard enthusiasts of all skill levels.  
 
 📖 **Start exploring today and take your keyboard journey to the next level!**
+
+# Table of contents
+- [Vendor Index](./vendors.md)
